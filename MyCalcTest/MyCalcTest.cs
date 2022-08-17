@@ -97,6 +97,7 @@ namespace Lab_Excer
         [DataRow (20,10,5)]
         [DataRow (18,10,1)]
         [DataRow (28,17,5)]
+        [DataRow (28,17,6)]
 
         public void NegativeTestDataPowMethod(double op1,double op2,double expresult)
         {
